@@ -1,6 +1,7 @@
 # Spreadsheet Modeling: Retiree Income Projection
 
-This project cosist of modeling a real-life saving plans and cash flow based on the following scenario:
+
+The goal is to help the retiree to prepare an Excel template that calculates their cash flow month by month considering all the variables and information provided; modeling a real-life saving plans and cash flow based on the following scenario:
 
 After working for 45 years Claire is about to retire. Her Massachussetss and California houses are fully paid. Which gives her and her spouse the option to stay in Massachusets or move to California. She believes that his savings account is enought to live in either state, as expenses and cost of living are fairly similar. However, she want to know, how long her savings will last?
 
@@ -19,6 +20,16 @@ After working for 45 years Claire is about to retire. Her Massachussetss and Cal
 | Savings | $580,000 | **6%**  | Taxable only on the earning it producses
 
 
+### Interest
+
+### Withdrwals
+
+### Taxes
+
+![image](https://user-images.githubusercontent.com/95588335/161776531-35cf0558-82e2-4ca9-b32d-dbf3f5c38871.png)
+
+
+
 Important Details to take into account...
 
 - Prices of goods are continuely increasing due to inflations
@@ -35,8 +46,8 @@ How long will her savings last?
 It seems that once she can access her IR, she will have to withdraw more money than the minimum since she will be out of cash. Correct?
 With 
 
+### Assumptions
 
 [Uploading Retiree Income Projection - Figures from the Tax Accountant 2021.xlsx…]()
-
 
 
